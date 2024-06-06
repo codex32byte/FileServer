@@ -1,0 +1,21 @@
+Задание № 15. Программа «Фотоальбом». 
+Программа должна выполнять следующие функции:
+1.	Иметь графический интерфейс.
+2.	Добавление и удалений фотографий.
+3.	Добавление, удаление и редактирование подписей к фото.
+4.	Просмотр фотоальбома в оба конца.
+5.	Сохранение фотоальбома в файл. Фотографии сохраняются  с подписями.
+6.	Загрузка выбранного фотоальбома для просмотра и редактирования.
+
+
+===============
+
+
+Task number 15. The Photo Album program.
+The program must perform the following functions:
+1. Have a graphical interface.
+2. Adding and deleting photos.
+3. Add, delete and edit captions to photos.
+4. View the photo album both ways.
+5. Save the photo album to a file. Photos are saved with captions.
+6. Upload the selected photo album for viewing and editing.
